@@ -1,0 +1,5 @@
+services:
+  - name: streamlit
+    env:
+      - key: PORT
+        value: 8501
