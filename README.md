@@ -24,7 +24,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## NOTE: I do use posters because tmdb api website was not working
+## NOTE: I did not use movies posters because tmdb api website was not working at the moment
 ## final results 
 
 ![github](https://github.com/sumityadav329/movies-recommender-app/assets/135656058/62c83ca2-b283-4c5d-8f20-a4889f74cf93)
